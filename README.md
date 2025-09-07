@@ -9,11 +9,8 @@ Karamoja, in northeastern Uganda, faces food insecurity due to drought, pests, a
 Objectives
 
 Compare sorghum vs maize yields at district and subcounty levels.
-
 Highlight spatial disparities in food security risk.
-
 Provide visual insights using interactive dashboards and charts.
-
 Recommend targeted strategies to improve resilience and crop productivity.
 
 Data Sources

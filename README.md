@@ -7,9 +7,13 @@ Project Overview
 Karamoja, in northeastern Uganda, faces food insecurity due to drought, pests, and low crop productivity. Maize and sorghum are the region’s staple crops, but their performance varies widely across subcounties and districts. This project develops an interactive Tableau dashboard for NGOs. It enables exploration of crop yields, production, and population pressure to inform data-driven decisions for interventions.
 
 Objectives
+
 Compare sorghum vs maize yields at district and subcounty levels.
+
 Highlight spatial disparities in food security risk.
+
 Provide visual insights using interactive dashboards and charts.
+
 Recommend targeted strategies to improve resilience and crop productivity.
 
 Data Sources
